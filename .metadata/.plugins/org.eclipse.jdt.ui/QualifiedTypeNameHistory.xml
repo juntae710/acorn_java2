@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.cook.한식가능한"/>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.cook.Cook"/>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.myarrys.Score"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="ComparatorImp"/>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.cast.Score"/>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.cast.human"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.cast.hanburger"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java2prj1.interfaceEx.cast.MyComparable"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.main"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.OList"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.ArrayListTest"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.Score"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.printer.ThreeDPrinterPlastic"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.printer.ThreeDPrinterPowder"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.printer.Plastic"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.printer.GThreeDPrinter"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.printer.Powder"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.printer.Material"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.arrayList.MyArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.arrayList.MyArrayListG"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.arrayList.Vehicle"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.arrayList.MyComsumer"/>
+    <fullyQualifiedTypeName name="java2prj1.generic.arrayList.MyConsumerG"/>
+</qualifiedTypeNameHistroy>

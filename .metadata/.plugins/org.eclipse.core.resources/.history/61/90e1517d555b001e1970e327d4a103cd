@@ -1,0 +1,7 @@
+package java2prj1.interfaceEx.cast;
+
+public class human {
+	public void 썰기(){
+        System.out.println(" 일어난다");
+        }   
+}

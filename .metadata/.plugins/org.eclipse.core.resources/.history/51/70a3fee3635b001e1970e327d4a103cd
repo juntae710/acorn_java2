@@ -1,0 +1,11 @@
+package java2prj1.generic;
+
+public class GListTest {
+public static void main(String[] args) {
+	GList<Score> list = new GList<>();
+	
+	list.add(new Score("이정훈",100,100));
+	list.add(new Score("이다온",100,100));
+	list.add(new Score("박하준",100,100));
+}
+}

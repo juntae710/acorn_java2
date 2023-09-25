@@ -1,0 +1,7 @@
+package java2prj1.interfaceEx.cast;
+
+public class student extends human{
+	public void 일(){
+        System.out.println("학교에간다.");
+        }   
+}

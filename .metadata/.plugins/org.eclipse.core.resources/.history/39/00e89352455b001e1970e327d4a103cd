@@ -1,0 +1,20 @@
+package java2prj1.interfaceEx.myarrys;
+
+interface MyComparable
+public class MyArrays {
+public static void soryt(Object[] arr) {
+	
+	for(int i=0; i <arr.length-1; i++) {
+		for(int j=i+1;j<arr.length; i++) {
+			MyComparable m=(MyComparable)arr[i];
+			if(m.compareTo(arr[j])) {
+				Object tmp;
+				tmp = arr[i];
+				arr[i] = arr[j];
+				arr[j]=tmp;
+			}
+					
+		}
+	}
+}
+}

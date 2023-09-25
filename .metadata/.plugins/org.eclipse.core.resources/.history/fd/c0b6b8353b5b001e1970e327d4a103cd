@@ -1,0 +1,9 @@
+package java2prj1.interfaceEx.cook;
+
+import java.util.ArrayList;
+
+public class Main {
+public static void main(String[] args) {
+	ArrayList<Cook> list = new ArrayList<Cook>(); 
+}
+}

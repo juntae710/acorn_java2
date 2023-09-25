@@ -1,0 +1,7 @@
+package java2prj1.generic.printer;
+
+public class ThreeDPrinterTest {
+public static void main(String[] args) {
+	ThreeDPrinterPlastic p = new ThreeDPrinterPlastic();
+}
+}

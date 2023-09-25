@@ -1,0 +1,8 @@
+package java2prj1.interfaceEx.cast;
+
+public class order {
+public static void main(String[] args) {
+	setMenu o = new setMenu();
+	o.셋트메뉴();
+}
+}

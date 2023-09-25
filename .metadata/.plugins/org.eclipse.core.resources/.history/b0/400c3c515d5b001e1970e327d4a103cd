@@ -1,0 +1,8 @@
+package java2prj1.interfaceEx.cast;
+
+public class setMenu extends hanburger  {
+	public void 셋트메뉴(){
+        System.out.println("+콜라+감튀");
+        }   
+ 
+}

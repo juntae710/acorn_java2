@@ -1,0 +1,10 @@
+package java2prj1.interfaceEx.cast;
+
+public class hanburger {
+	public void 기상(){
+        System.out.println("일어난다");
+        }   
+	public void 취침(){
+        System.out.println("잠에든다");
+        }   
+}

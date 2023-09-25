@@ -1,0 +1,13 @@
+package java2prj1.interfaceEx.cast;
+
+public class order {
+public static void main(String[] args) {
+	hanburger h = new setMenu();
+	
+	String order1 = h.햄버거();
+
+	setMenu s = (setMenu) h;
+	String order2 = s.셋트메뉴();
+	
+}
+}
