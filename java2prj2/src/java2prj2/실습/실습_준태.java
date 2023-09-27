@@ -8,11 +8,11 @@ import java.util.function.Supplier;
 
 public class 실습_준태 {
 public static void main(String[] args) {
-	Scanner sc = new Scanner(System.in);
-	System.out.println("1.오늘어떤 요리를 먹을건가요?");
-	String a1 =sc.next();
 	
-	Runnable r = ()-> System.out.println("오늘 해먹을 요리는 "+a1+"이군요.");
+	System.out.println(1);
+	
+	
+	Runnable r = ()-> System.out.println("내꿈은 건물주");
 	r.run();
 	
 	System.out.println(2);
