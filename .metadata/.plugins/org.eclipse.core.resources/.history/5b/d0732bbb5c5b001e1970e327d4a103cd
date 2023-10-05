@@ -1,8 +1,0 @@
-package java2prj1.interfaceEx.cast;
-
-public class hanburger {
-	public void 햄버거(){
-        System.out.println("싸이버거");
-        }   
-	
-}

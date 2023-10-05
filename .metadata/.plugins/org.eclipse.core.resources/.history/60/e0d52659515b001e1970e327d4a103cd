@@ -1,8 +1,0 @@
-package java2prj1.interfaceEx.cast;
-
-public class Score {
-String name;
-String kor;
-String eng;
-
-}

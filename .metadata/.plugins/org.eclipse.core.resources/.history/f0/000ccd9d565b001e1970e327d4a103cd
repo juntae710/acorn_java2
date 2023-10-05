@@ -1,7 +1,0 @@
-package java2prj1.interfaceEx.cast;
-
-public class student {
-	public void 일과(){
-        System.out.println("학교에간다.");
-        }   
-}

@@ -1,8 +1,0 @@
-package java2prj1.generic;
-
-public class OlistTest {
-public static void main(String[] args) {
-	OList list = new OList();
-	list.add(new Score("김길동", 100, 90));
-}
-}
